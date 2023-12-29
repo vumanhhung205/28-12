@@ -1,0 +1,11 @@
+*{
+
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 180px 180px 180px 180px;
+    border-color: aqua;
+    border-style: solid;
+    border-width: 15px;
+}
